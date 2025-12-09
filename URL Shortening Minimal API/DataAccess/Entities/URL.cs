@@ -9,4 +9,5 @@
         public DateTime? updatedAt { get; set; }
         public int AccessCount { get; set; } = 0;
     }
+
 }
